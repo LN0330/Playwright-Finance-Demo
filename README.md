@@ -4,7 +4,7 @@
 - Playwright-Finance-XPath.py版本: 透過辨識特定文字或XPath實現直接定位抓取版本  
 ---
 - 撰寫語言: Python 3.13.1  
-- 套件: Playwright  
+- 爬蟲套件: Playwright  
 - 開發環境: Visual Studio Code  
 ---  
 - 示意圖:
